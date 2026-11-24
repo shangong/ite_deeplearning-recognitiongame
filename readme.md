@@ -2,6 +2,8 @@
 
 **Deep Learning Prediction Quest** is an interactive, browser-based educational game created to help students in the **Deep Learning** module familiarise themselves with essential terminology, Python/Keras syntax, and end-to-end machine learning workflows.
 
+[Go to game](https://shangong.github.io/ite_deeplearning-recognitiongame/deep_learning_prediction_quest_v10_1.html)
+
 ## Learning Objectives
 
 By completing this game, students will be able to:
